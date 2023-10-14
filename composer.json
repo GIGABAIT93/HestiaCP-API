@@ -4,7 +4,7 @@
     "version": "v1.0.0",
     "require": {
         "php": ">=8.1",
-        "guzzlehttp/guzzle": "^8.1",
+        "guzzlehttp/guzzle": "^7",
         "nette/utils": "^4"
     },
     "homepage": "https://github.com/GIGABAIT93/HestiaCP-API",
