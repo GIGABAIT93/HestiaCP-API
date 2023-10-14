@@ -1,5 +1,5 @@
 {
-    "name": "gigabait93/hestiacp-api",
+    "name": "gigabait/hestiacp-api",
     "description": "HestiaCP API SDK in PHP",
     "version": "v1.0.0",
     "require": {
