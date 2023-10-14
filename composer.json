@@ -1,18 +1,18 @@
 {
-    "name": "ponasromas/hestiacp-api",
+    "name": "gigabait93/hestiacp-api",
     "description": "HestiaCP API SDK in PHP",
-    "version": "v0.1-alpha",
+    "version": "v1.0.0",
     "require": {
         "php": "^8.0",
         "guzzlehttp/guzzle": "^7.0",
-        "nette/utils": "^3.2"
+        "nette/utils": "^4"
     },
-    "homepage": "https://github.com/ponasromas/HestiaCP-API",
+    "homepage": "https://github.com/GIGABAIT93/HestiaCP-API",
     "license": "MIT",
     "authors": [
         {
-            "name": "Roman L.",
-            "email": "rms200x@gmail.com"
+            "name": "GIGABAIT",
+            "email": "xgigabaitx@gmail.com"
         }
     ],
     "minimum-stability": "dev",
