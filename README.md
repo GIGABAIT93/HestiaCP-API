@@ -7,7 +7,7 @@
 
 ```sh
 
-$ composer require ponasromas/hestiacp-api:dev-main
+$ composer require gigabait93/hestiacp-api:dev-main
 
 ```
 
